@@ -1,0 +1,1 @@
+/* List the sum of salary for employees with last names starting in these letter categories: A-G, H-L, M-R, S-Z. */

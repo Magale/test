@@ -1,0 +1,1 @@
+/* List one table comparing the counts of employees hired in the first half of the year (Jan-Jun) next to the counts hired in the second half (Jul-Dec) of the same year. */
